@@ -1,29 +1,20 @@
-# _Chocolate Chip Cookie Recipe_
+# cookie recipe
 
-#### _Simple HTML file with a chocolate chip cookie recipe, 03/17/2020_
-
-#### By _**Reid Ashwill, Tyler Bowerman**_
+#### By Reid Ashwill
 
 ## Description
 
-_This file is designed to streamline the cookie making process_
+project for epicodus
+
 
 ## Setup/Installation Requirements
 
-* _You will need a web browser capable of reading HTML._
-* _Simply onpen the file and start baking_
+* _clone the respository to your local machine_
+* _navigate to the cloned directory and open in your text editor of choice to view code_
 
-
-## Known Bugs
-
-_There aren't any bugs in these cookies!  Unless of course you add them yourself!_
-
-## Technologies Used
-
-_HTML_
 
 ### License
 
-*This software is liscenced under the MIT liscence*
+*Licensed under the MIT license*
 
-Copyright (c) 2020 **_Tyler Bowerman, Reid Ashwill_**
+Copyright (c) 2020 **_Reid Ashwill_**
